@@ -3,10 +3,10 @@
  ---- THIS PROJECT IS FREE AND OPEN SOURCE IF YOU ARE A COLLAGE STUDENT FEEL FREE TO USE MY CODE FOR YOUR ASSINGEMNTS AND ADD MORE TO THIS ----
                                  ---- MADE BY ARYAN RATHORE +91-9685071745, aryanrathore13572002@gmail.com ----
 
+TIME TOOK TO MAKE THIS :- 27-DEC-2022 TO 29-DEC-2022, 2 TO 3 DAYS
 
 HOW TO SETUP THE HOTEL_MANAGER :-
 
-IMPORTANT
 1. IMPORT THE MYSQL DATABASE NAMED hotel_database
 
 2. there are 2 text files that keep the track of the following info:-
@@ -15,14 +15,15 @@ IMPORTANT
 
 2B. MANAGER_LOGINS.TXT this file keeps track of who is logging into the system at what date and time.
 
-MOST_IMPORTANT
-3. now that you have imported the database there is only 1 thing you need to do that is TO CHACNGE THE FILE PATH OF BILLS.TXT AND MANAGER_LOGINS.TXT in your hotel_manager python file i have mentioned in the comments which which functions will require a file path change and what functions use them.
+3. CHANGE OR ADD YOUR USERNAME AND PASSWORD AT LINE 786
 
-4. after importing the database and changing the file paths you are all set and done.
+4. now that you have imported the database there is only 1 thing you need to do that is TO CHACNGE THE FILE PATH OF BILLS.TXT AND MANAGER_LOGINS.TXT in your hotel_manager python file i have mentioned in the comments which which functions will require a file path change and what functions use them.
 
-5. every function has a docstring which disribes how the function works and what it does. 
+5. after importing the database and changing the file paths you are all set and done.
 
-6. i tried to keep the program simple so anyone who knows the basics of python can solve it 
+6. every function has a docstring which disribes how the function works and what it does. 
+
+7. i tried to keep the program simple so anyone who knows the basics of python can solve it 
 
 
 DISCRIPTION:-
