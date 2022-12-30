@@ -102,6 +102,13 @@ def hotel_ui(): # done
 #----------------------------------------------------------------------------------------------------------------------------------------
 
 def hotel_menu(): # done
+  
+  '''
+     This is the hotel menu from here the user can enter a specific number depending on which a certaion function will run
+     1. present the user with a case switch that the user enters a number for a specific function to run | done
+     
+  '''
+  
     print("\n*******************************************************************************************************************************")
     user_input = input('''
 \t\t\t\t\t----------------- HOTEL_MENU ------------------
