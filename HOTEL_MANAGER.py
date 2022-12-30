@@ -38,6 +38,10 @@ import time
 '''   I HAVE TO SPECIFY A FILE PATH TO OPEN THE LOG (BILLS.TXT, MANAGER_LOGINS.TXT) FILES IF YOU ARE USING OR COPY PASTING MY CODE
     MAKE YOU CHANGE THE FILE PATHS I HAVE SPECIFIED WHICH FUNCTIONS NEED A 'FILE PATH CHANGE' SO MAKE SURE YOU CHANGE THEM FIRST '''
 
+# 3
+
+'''                     CHANGE OR ADD YOUR USERNAME AND PASSWORD (MANAGER_LOGIN_INFO) AT THE CODE LINE 786                               '''
+
 #----------------------------------------------------------------------------------------------------------------------------------------
 
 def hotel_ui(): # done
@@ -779,7 +783,7 @@ if __name__ == "__main__":
 
         '''
 
-        if usernamei == "Aryan" and userpassi == "Gay1":
+        if usernamei == "Aryan" and userpassi == "Ar1":
             print("\n--------------------------------------------------------------------------------------------------------------\n")
             print(f"\t\t\tWelcome {usernamei}, login date and time : {dt.datetime.now()}. \n")
             update_manager_logins_log(usernamei, dt.datetime.now())
