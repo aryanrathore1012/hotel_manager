@@ -1,7 +1,7 @@
 # hotel_manager
 
  ---- THIS PROJECT IS FREE AND OPEN SOURCE IF YOU ARE A COLLAGE STUDENT FEEL FREE TO USE MY CODE FOR YOUR ASSINGEMNTS AND ADD MORE TO THIS ----
-                                 ---- MADE BY ARYAN RATHORE +91-9685071745, aryanrathore13572002@gmail.com ----
+                                 ---- MADE BY ARYAN RATHORE LINKEDIN-https://www.linkedin.com/in/aryan-rathore-b15459215/  aryanrathore13572002@gmail.com ----
 
 TIME TOOK TO MAKE THIS :- 27-DEC-2022 TO 29-DEC-2022, 2 TO 3 DAYS
 
